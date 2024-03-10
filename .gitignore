@@ -7,8 +7,8 @@ node_modules/
 *.tfvars
 *.tfplan
 *.tfschema
-.terraform/
 *.tfbackup
+.terraform
 
 # Ignore log files and directories
 *.log
